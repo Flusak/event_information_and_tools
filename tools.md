@@ -1,5 +1,5 @@
 ## Threat Intelligence Platform's
-- [VirusTotal](https://www.virustotal.com)
+- [VirusTotal](https://virustotal.com)
 - [Kasperskiy TIP](https://www.opentip.kaspersky.com)
 - [IBM X-Force Exchange](https://www.exchange.xforce.ibmcloud.com)  
 - [AlienVault](https://www.otx.alienvault.com/browse)
