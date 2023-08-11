@@ -7,7 +7,7 @@
 ## IP info
 - [AbuseIPDB](https://www.abuseipdb.com)
 - [MXToolbox](https://www.mxtoolbox.com)
-- [Tor Node List](https:/www./dan.me.uk/tornodes)
+- [Tor Node List](https:/www.dan.me.uk/tornodes)
 
 ## Sandbox
 - [Any Run](https://www.app.any.run)
