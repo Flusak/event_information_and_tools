@@ -1,7 +1,7 @@
 # Sysmon
 Sysmon - это инструмент, который позволяет дополнить и расширить стандартную систему мониторинга событий в Windows.  
 Утилиту можно установить с оффицального сайта Microsoft вот [тут](https://download.sysinternals.com/files/Sysmon.zip)  
-Для установки Sysmon также нужен конфигурационный файл с правами. Вот несколько примеров: [с привязкой к Mittre Att&ck](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml) и [от ion-storm](https://raw.githubusercontent.com/ion-storm/sysmon-config/develop/sysmonconfig-export.xml)
+Для установки Sysmon также нужен конфигурационный файл с правами. Вот несколько примеров: [с привязкой к Mitre Att&ck](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml) и [от ion-storm](https://raw.githubusercontent.com/ion-storm/sysmon-config/develop/sysmonconfig-export.xml)
 
 Открываем cmd с правами администратора:
 ```
